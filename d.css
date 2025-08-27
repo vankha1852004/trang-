@@ -1,0 +1,11 @@
+body {
+  background: white;
+}
+h1,
+h2 {
+  font-size: 30px;
+}
+img {
+  height: 965px;
+  width: 965px;
+}
